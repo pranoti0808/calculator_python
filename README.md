@@ -1,1 +1,1 @@
-# CodeClauseInternship_calculator
+Simple Calculator Python Program
